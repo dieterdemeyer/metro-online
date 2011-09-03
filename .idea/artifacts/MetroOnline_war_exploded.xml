@@ -1,0 +1,66 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="MetroOnline:war exploded">
+    <output-path>$PROJECT_DIR$/target/MetroOnline-1.0</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="MetroOnline/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="MetroOnline" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="Maven: com.vaadin:vaadin:6.4.4" />
+          <element id="library" level="project" name="Maven: ant-contrib:ant-contrib:1.0b3" />
+          <element id="library" level="project" name="Maven: ant:ant:1.5" />
+          <element id="library" level="project" name="Maven: org.apache.ant:ant-junit:1.8.1" />
+          <element id="library" level="project" name="Maven: org.apache.ant:ant:1.8.1" />
+          <element id="library" level="project" name="Maven: org.apache.ant:ant-launcher:1.8.1" />
+          <element id="library" level="project" name="Maven: junit:junit:4.8.2" />
+          <element id="library" level="project" name="Maven: org.apache.ant:ant-trax:1.8.0" />
+          <element id="library" level="project" name="Maven: org.apache.ant:ant-apache-xalan2:1.8.0" />
+          <element id="library" level="project" name="Maven: org.apache.ant:ant-nodeps:1.8.0" />
+          <element id="library" level="project" name="Maven: xalan:xalan:2.7.1" />
+          <element id="library" level="project" name="Maven: xalan:serializer:2.7.1" />
+          <element id="library" level="project" name="Maven: xml-apis:xml-apis:1.3.04" />
+          <element id="library" level="project" name="Maven: commons-io:commons-io:2.0" />
+          <element id="library" level="project" name="Maven: commons-lang:commons-lang:2.5" />
+          <element id="library" level="project" name="Maven: org.codehaus.groovy:groovy:1.7.6" />
+          <element id="library" level="project" name="Maven: antlr:antlr:2.7.7" />
+          <element id="library" level="project" name="Maven: asm:asm:3.2" />
+          <element id="library" level="project" name="Maven: asm:asm-commons:3.2" />
+          <element id="library" level="project" name="Maven: asm:asm-tree:3.2" />
+          <element id="library" level="project" name="Maven: asm:asm-util:3.2" />
+          <element id="library" level="project" name="Maven: asm:asm-analysis:3.2" />
+          <element id="library" level="project" name="Maven: com.lowagie:itext:2.1.7" />
+          <element id="library" level="project" name="Maven: bouncycastle:bcmail-jdk14:138" />
+          <element id="library" level="project" name="Maven: bouncycastle:bcprov-jdk14:138" />
+          <element id="library" level="project" name="Maven: org.bouncycastle:bctsp-jdk14:1.38" />
+          <element id="library" level="project" name="Maven: org.bouncycastle:bcprov-jdk14:1.38" />
+          <element id="library" level="project" name="Maven: org.bouncycastle:bcmail-jdk14:1.38" />
+          <element id="library" level="project" name="Maven: joda-time:joda-time:1.6.2" />
+          <element id="library" level="project" name="Maven: pdfbox:pdfbox:0.7.3" />
+          <element id="library" level="project" name="Maven: org.fontbox:fontbox:0.1.0" />
+          <element id="library" level="project" name="Maven: org.jempbox:jempbox:0.2.0" />
+          <element id="library" level="project" name="Maven: log4j:log4j:1.2.9" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-web:3.0.4.RELEASE" />
+          <element id="library" level="project" name="Maven: aopalliance:aopalliance:1.0" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-beans:3.0.4.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-core:3.0.4.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-asm:3.0.4.RELEASE" />
+          <element id="library" level="project" name="Maven: commons-logging:commons-logging:1.1" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-context:3.0.4.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-aop:3.0.4.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-expression:3.0.4.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-support:2.0.8" />
+          <element id="library" level="project" name="Maven: logkit:logkit:1.0.1" />
+          <element id="library" level="project" name="Maven: avalon-framework:avalon-framework:4.1.3" />
+          <element id="library" level="project" name="Maven: javax.servlet:servlet-api:2.3" />
+          <element id="library" level="project" name="Maven: org.apache.httpcomponents:httpclient:4.0.3" />
+          <element id="library" level="project" name="Maven: org.apache.httpcomponents:httpcore:4.0.1" />
+          <element id="library" level="project" name="Maven: commons-codec:commons-codec:1.3" />
+          <element id="library" level="project" name="Maven: javax.mail:mail:1.4.1" />
+          <element id="library" level="project" name="Maven: javax.activation:activation:1.1" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>

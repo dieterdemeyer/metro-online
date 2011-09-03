@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="MetroOnline:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="MetroOnline-1.0.war">
+      <element id="artifact" artifact-name="MetroOnline:war exploded" />
+    </root>
+  </artifact>
+</component>
